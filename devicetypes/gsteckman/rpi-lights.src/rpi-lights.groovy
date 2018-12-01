@@ -106,7 +106,7 @@ metadata {
 		details(["switch", "refreshTile",
         "overheadLabel", "overheadSwitch", "overheadLevel",
         "hardscapeLabel", "hardscapeSwitch", "hardscapeLevel", 
-        "graniteSwitch"
+        "graniteSwitch",
         ])
 	}
 }
